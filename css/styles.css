@@ -198,4 +198,10 @@ a {
 	.testimonial-heading {
 		font-size: 3rem;
 	}
+	.navbar-brand {
+		font-size: 3rem;
+	}
+	.nav-item {
+		font-size: 2rem;
+	}
 }
