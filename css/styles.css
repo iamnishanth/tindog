@@ -176,4 +176,16 @@ a {
 	#title {
 		text-align: center;
 	}
+	.container-fluid {
+		padding: 7% 5%;
+	}
+	#features {
+		padding: 7% 5%;
+	}
+	.feature-title {
+		font-size: 3rem;
+	}
+	p {
+		font-size: 2rem;
+	}
 }
