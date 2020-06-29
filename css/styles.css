@@ -210,4 +210,7 @@ a {
 	.download-button {
 		font-size: 2rem;
 	}
+	.navbar-toggler {
+		font-size: 3rem;
+	}
 }
