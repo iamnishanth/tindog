@@ -176,16 +176,26 @@ a {
 	#title {
 		text-align: center;
 	}
+	.big-heading {
+		font-size: 5rem;
+	}
 	.container-fluid {
 		padding: 7% 5%;
 	}
 	#features {
-		padding: 7% 5%;
+		padding: 15% 7%;
+		/* margin: 5% 0; */
 	}
 	.feature-title {
 		font-size: 3rem;
 	}
+	.feature-box {
+		padding: 5% 0;
+	}
 	p {
 		font-size: 2rem;
+	}
+	.testimonial-heading {
+		font-size: 3rem;
 	}
 }
